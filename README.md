@@ -1,2 +1,2 @@
 # IC-Multisim
-Operational Amplifier Circuits Designed on Multisim
+Operational Amplifier Circuits Designed and Simulated in Multisim
